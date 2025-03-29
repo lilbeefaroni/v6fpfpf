@@ -1,0 +1,16 @@
+{
+    "gamepermissions": {
+        "7075378504": [
+            "kick", "ban", "mute", "unmute", "rank", "credits", "grant", "hardkick",
+            "chatban", "unban", "revokevotekick", "ooftp", "tag", "reset", "team",
+            "selfrank", "selfcredits", "selftag", "selfreset", "selfteam", "dataid",
+            "addcredits", "addkills", "debug", "rankkick", "comment"
+        ],
+        "911797844": [
+            "kick", "ban", "mute", "unmute", "rank", "credits", "grant", "hardkick",
+            "chatban", "unban", "revokevotekick", "ooftp", "tag", "reset", "team",
+            "selfrank", "selfcredits", "selftag", "selfreset", "selfteam", "dataid",
+            "addcredits", "addkills", "debug", "rankkick", "comment"
+        ]
+    }
+}
