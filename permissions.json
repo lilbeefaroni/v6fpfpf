@@ -1,8 +1,9 @@
 {
     "7075378504": {
         "administrator": true,
-        "ban": true,
-        "kick": true
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
     },
     "789101": {
         "kick": true
