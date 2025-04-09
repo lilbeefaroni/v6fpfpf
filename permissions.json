@@ -34,5 +34,5 @@
         "can_ban": true,
         "can_kick": true,
         "can_mute": true
-    },
+    }	
 }
