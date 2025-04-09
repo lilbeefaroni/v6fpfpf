@@ -5,7 +5,34 @@
         "can_kick": true,
         "can_mute": true
     },
-    "789101": {
-        "kick": true
-    }
+	"8050294143": {
+        "administrator": true,
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
+    },
+	"981601518": {
+        "administrator": true,
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
+    },
+	"911797844": {
+        "administrator": true,
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
+    },
+    "472649009": {
+        "administrator": true,
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
+    },
+	"1261306016": {
+        "administrator": true,
+        "can_ban": true,
+        "can_kick": true,
+        "can_mute": true
+    },
 }
